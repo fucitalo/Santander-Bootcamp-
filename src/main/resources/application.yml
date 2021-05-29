@@ -17,5 +17,5 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado para o BootCamp Santander
-  version: 1.0
+  description: Projeto criado para o BootCamp Santander hospedado na nuvem
+  version: 1.1
